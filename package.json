@@ -1,6 +1,6 @@
 {
   "name": "headless-google-translate",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "call google translate using nightmare headless browser",
   "main": "lib/headless-google-translate.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "keywords": [
     "google-translate"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "nightmare": "^2.2.0"
+  }
 }
