@@ -1,6 +1,6 @@
 {
   "name": "headless-google-translate",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "call google translate using nightmare headless browser",
   "main": "lib/headless-google-translate.js",
   "scripts": {
