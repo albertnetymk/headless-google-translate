@@ -11,7 +11,7 @@ my_tr = (str, cb) ->
 
 p = console.log
 
-my_tr str, p
+my_tr 'hello world', p
 ```
 
 ```
